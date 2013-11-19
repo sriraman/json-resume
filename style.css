@@ -1,0 +1,50 @@
+body{
+	background-color: #38393C;
+}
+
+.container{
+	width: 980px;
+	margin: 0 auto;
+	color: #fff;
+	font-family: "Courier";
+	font-size: 24px;
+}
+
+.offset1{
+	margin-left: 80px;
+}
+
+.offset2{
+	margin-left: 160px;
+}
+
+.offset3{
+	margin-left: 240px;
+}
+
+.offset4{
+	margin-left: 320px;
+}
+
+.light{
+	color: #aaa;
+}
+
+.light span{
+	color: #e74c3c;
+}
+
+.brace{
+	display: inline-block;
+	color: #fff;
+}
+
+.light a{
+	color: #aaa;
+	text-decoration: none;
+	border-bottom: 1px dashed #888;
+}
+
+.broad{
+	padding-top: 10px;
+}
